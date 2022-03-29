@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @danielzanzao
+- 👀 I’m interested in programing (maybe that's obvious seen that I'm here), playing games that brought me closer to the computer and learning new things to open more possibilities to work with the things I love the most
+- 🌱 I’m currently learning C, java and python
+- 💞️ I’m looking to collaborate on freelancer projects and trainee oportunities to increase my knowlege in many languages 
+- 📖 I'm currently Graduating in Bachelor in Computer Science at CEFET-Maracanã 
+- ✉️ How to reach me:danielzanzao@hotmail.com or at my instagram @danielzanzao
